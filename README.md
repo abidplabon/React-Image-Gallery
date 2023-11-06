@@ -20,3 +20,5 @@ https://ollyo-image-gallery-dv27ava07-abids-projects-22d58657.vercel.app/
 + Git clone
 + Run npm install
 + Start the app using npm start
+![Screenshot (527)](https://github.com/abidplabon/React-Image-Gallery/assets/54079464/10e6378e-bb9f-430f-88e0-6e238f9b1fca)
+![Screenshot (528)](https://github.com/abidplabon/React-Image-Gallery/assets/54079464/0c68b744-c25e-4fda-ac7b-239f5155fdff)
