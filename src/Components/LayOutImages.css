@@ -1,0 +1,13 @@
+
+.overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Adjust opacity as needed */
+    z-index: 1;
+  }
+/* Styles for the selected image */
+.selected-image {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5); /* Adjust shadow styles as needed */
+  }
+  
